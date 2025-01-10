@@ -24,7 +24,7 @@ Sentiment Analysis was performed on the article summaries using the pre-trained 
 # Exploratory Data Analysis
 An initial graph was created to visually assess where the sentiment scores were distributed with respect to returns. 
 
-![graph](assets/EOD_ret_vs_sent.png)
+![graph](assets/EOD_ret_vs_sentiment.png)
 
 ### Takeaways:
 - Negative sentiment scores do not seem to strongly correlate to positive or negative returns.
